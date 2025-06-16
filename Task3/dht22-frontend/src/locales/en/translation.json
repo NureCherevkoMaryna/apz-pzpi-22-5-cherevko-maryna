@@ -1,0 +1,23 @@
+{
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Submit",
+    "sensor_data": "Sensor Data",
+    "logout": "Logout",
+    "switch_language": "Switch Language",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "last_update": "Last update",
+    "admin_panel": "Admin Panel",
+    "user_panel": "User Dashboard",
+    "sensor_settings": "Sensor Settings",
+    "sensor_id": "Sensor ID",
+    "location": "Location",
+    "temperature_min": "Minimum Temperature (°C)",
+    "temperature_max": "Maximum Temperature (°C)",
+    "humidity_min": "Minimum Humidity (%)",
+    "humidity_max": "Maximum Humidity (%)",
+    "save": "Save",
+    "settings_saved": "Settings saved!"
+  }

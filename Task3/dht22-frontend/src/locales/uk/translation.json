@@ -1,0 +1,24 @@
+{
+    "login": "Вхід",
+    "username": "Логін",
+    "password": "Пароль",
+    "submit": "Увійти",
+    "sensor_data": "Дані з сенсорів",
+    "logout": "Вийти",
+    "switch_language": "Змінити мову",
+    "temperature": "Температура",
+    "humidity": "Вологість",
+    "last_update": "Останнє оновлення",
+    "admin_panel": "Панель адміністратора",
+    "user_panel": "Кабінет користувача",
+    "sensor_settings": "Налаштування сенсора",
+    "sensor_id": "ID сенсора",
+    "location": "Локація",
+    "temperature_min": "Мінімальна температура (°C)",
+    "temperature_max": "Максимальна температура (°C)",
+    "humidity_min": "Мінімальна вологість (%)",
+    "humidity_max": "Максимальна вологість (%)",
+    "save": "Зберегти",
+    "settings_saved": "Налаштування збережено!"
+  }
+  
